@@ -32,8 +32,3 @@ The pipeline includes:
 * **Generative Models:** Replicate API (Minimax for video, Meta MusicGen for audio)
 * **Media Processing:** MoviePy, FFMPEG
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/ai-music-video-agent.git
